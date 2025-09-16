@@ -1,0 +1,667 @@
+---
+title: "Estatísticos e Cientistas de Dados:"
+subtitle: "Quem são, o que fazem e onde atuam?"
+author: "Profª. Maria Cristina Falcão Raposo e Prof.Jodavid Ferreira"
+institute: "Departamento de Estatística | UFPE"
+title-slide-attributes:
+  data-background-image: images/ml_background.png
+  data-background-size: contain
+  data-background-opacity: "0.2"
+format:
+  revealjs:
+    slide-number: c/t
+    css: ["css/jodavid.css"]
+    theme: default #dark
+    footer: "Estatísticos e Cientistas de Dados: Quem são, o que fazem e onde atuam? - [https://www.ufpe.br/dep-estatistica](https://www.ufpe.br/dep-estatistica)"
+    logo: "images/logo.png"
+    smaller: True
+editor_options: 
+  chunk_output_type: inline
+---
+
+
+## Motivação
+
+<hr/>
+
+<div style="text-align: center;">
+{{< video images/videos/ssstwitter.com_1715622047183.mp4 width="900" height="479" >}}
+</div>
+
+Solução de Inteligência Artificial para tradução simultânea de voz em tempo real,
+que utiliza análises estatísticas para conseguir análisar e interpretar o áudio.
+
+
+<!-- **GPT-4o** da OpenAI, modelo multimodal que consegue interpretar áudio, visão e texto em tempo real. -->
+
+
+---
+
+
+
+## Cenário Atual - Mundo
+
+<hr/>
+
+<br/> 
+
+* Atualmente, existem aproximadamente **50 bilhões** de dispositivos conectados à internet;
+
+* **7.4 bilhões** de pessoas vivendo em nosso planeta.
+
+* Essas conexões entre pessoas e dispositivos geram uma massa de dados estimada em **5 zettabytes**.
+
+
+Para se ter uma ideia do que isso significa, vamos entender rapidamente a estrutura de armazenamento de dados com exemplos que temos no cotidiano.
+
+![](images/predictive-analytics-computer-icons-data-analysis-business-intelligence-statistical-information-analysis-59d1882286ede637d0ff63e9ac65936c.png){.absolute bottom=0 right=50 width="300"}
+
+
+------------------------------------------------------------------------
+
+## Cenário Atual - Mundo
+
+<hr/>
+
+![](images/ufal/1_b-X6jefi9190lQaH33KkDA.webp){.absolute bottom=40 right=0 width="500"}
+
+* bit (b)
+* byte (B) 
+* kilobyte (KB)
+* megabyte (MB)
+* gigabyte (GB) 
+* terabyte (TB)
+* petabyte (PB)
+* exabyte (EB)
+* zettabyte (ZB) 
+* 'yottabyte' (YB)
+
+Este último, equivale a 'todas as centrais
+
+de dados, discos rígidos, pendrives e servidores de todo o mundo'. 
+
+<br/> 
+
+------------------------------------------------------------------------
+
+
+## Cenário Brasil - 2022
+
+<hr/>
+
+<br/> 
+
+No Brasil, aproximadamente, 71% da população brasileira está acessando a internet e 66% estão nas mídias sociais, como blogs, Facebook, X (oantigo Twitter), Instagram, SlideShare, Youtube, entre outros, realizando algum tipo de interação e assim trocando dados e informações.
+
+<br/> 
+
+![Uso digital no Brasil. Fonte: We are social.](images/ufal/1_nmIjRkimopB2YeFkitKMQA.webp){fig-align="center" width="400"}
+
+
+
+------------------------------------------------------------------------
+
+
+## Estatístico
+
+<hr/>
+
+<p/>
+
+
+> O **ESTATÍSTICO** é um profissional que pode transformar pilhas de números, textos, áudios, vídeos em gráficos e informações que servirão para uma tomada de decisão, visando, por exemplo, reduzir custos e aumentar lucros.
+
+
+<div style="text-align: center;">
+![](images/48205193-mercado-pesquisa-e-analise-ilustracao-com-equipe-gestao-e-analytics-para-criando-dados-estatisticas-dentro-uma-plano-estilo-desenho-animado-fundo-vetor.jpg){.relative width="600"}
+</div>
+
+------------------------------------------------------------------------
+
+
+## Atuais áreas existentes
+
+<hr/>
+
+<p/>
+
+<div style="font-size:15pt;">
+Atualmente no mercado de trabalho, empresas criadas com a cultura *data driven* (orientada a dados) ou empresas que estão em processo de transformação digital, estão usando diferentes nomenclaturas para os profissionais que trabalham com dados.
+As mais frequentes atualmente são:
+
+<p/>
+
+* **Engenheiro de dados**: responsável por construir, manter e otimizar a infraestrutura de dados, garantindo que os dados estejam disponíveis, acessíveis e prontos para análise.
+
+<p/>
+
+* **Analista de dados**: responsável por coletar, processar e realizar análises estatísticas em conjuntos de dados para extrair insights acionáveis que possam informar decisões de negócios.
+
+<p/>
+
+* **Cientista de Dados**: responsável por analisar e interpretar dados, utilizando técnicas de estatística, aprendizado de máquina e programação para desenvolver modelos preditivos e soluções baseadas em dados.
+
+<p/>
+* **Engenheiro de Machine Learning**: responsável por projetar, construir e implementar modelos de aprendizado de máquina em sistemas de produção, garantindo que esses modelos sejam escaláveis, eficientes e integrados aos processos de negócios.
+
+<p/>
+* **Engenheiro de *Prompt***: responsável por criar, otimizar e gerenciar prompts para modelos de linguagem baseados em inteligência artificial, garantindo que os prompts sejam eficazes na geração de respostas precisas e relevantes para diversas aplicações.
+</div>
+
+------------------------------------------------------------------------
+
+
+## Atuais áreas existentes
+
+<hr/>
+
+<p/>
+
+> Em qual destas áreas o Estatístico pode atuar?
+
+
+. . .
+
+
+<h3 style="text-align: center; color: red;"> Em todas elas! </h3>
+
+
+<p/>
+
+* Engenheiro de dados;
+
+* Analista de dados;
+
+* Cientista de Dados;
+
+* Engenheiro de Machine Learning;
+
+* Engenheiro de *Prompt*;
+
+
+------------------------------------------------------------------------
+
+
+## Atuais áreas existentes
+
+<hr/>
+
+<p/>
+
+> Em qual destas áreas o Estatístico pode atuar?
+
+
+<h3 style="text-align: center; color: red;"> Em todas elas! </h3>
+
+
+<p/>
+
+* Engenheiro de dados;
+
+* Analista de dados;
+
+* <u>**Cientista de Dados**</u>;
+
+* Engenheiro de Machine Learning;
+
+* Engenheiro de *Prompt*;
+
+> Entretanto, o Estatístico tem uma afinidade maior com a área de Cientista de Dados, por conta da sua formação sólida em Estatística e Matemática, que são fundamentais para modelagem e interpretação dos dados.
+
+
+
+------------------------------------------------------------------------
+
+<br/> <br/> <br/> <br/> <br/>
+
+<hr/>
+<h2 style="text-align: center;">
+
+Áreas que podem se beneficiar com a Estatística e Ciência de Dados
+
+</h2>
+<hr/>
+
+
+
+------------------------------------------------------------------------
+
+### Áreas que podem se beneficiar
+
+<hr/>
+
+<br/>
+
+
+*  Na área da **Saúde ou Medicina**:
+
+> a ciência e a tecnologia caminham juntas há tempos,
+e nessa área podemos comentar por exemplo sobre os **dispositivos e sensores portáteis
+que conectados ao corpo enviam dados em tempo real sobre as condições de saúde de
+um paciente**, dessa forma é possível extrair diversas análises sobre os dados coletados.
+
+> Também podemos comentar sobre os avanços nos **diagnósticos de doenças como o
+câncer**, reduzindo o tempo dos exames e extinguindo a chance de erro médico, dessa
+forma quanto mais rápido o diagnóstico, maiores as chances de cura do paciente.
+
+
+------------------------------------------------------------------------
+
+### Áreas que podem se beneficiar
+<hr/>
+
+<br/>
+
+
+*  Na área da **Marketing e Varejo**:
+
+>   neste caso podemos utilizar a
+ciência de dados para **personalização da compra**, que é uma experiência positiva para o
+cliente. Através de algoritmos de aprendizado, a máquina estabelece as preferências
+do público de acordo com **histórico de compras e recomendações**, assim as tomadas de
+decisões sobre as ações são mais acertadas e direcionadas para o desejo dos clientes.
+
+
+------------------------------------------------------------------------
+
+### Áreas que podem se beneficiar
+
+<hr/>
+
+<br/>
+
+
+*   Uma outra área bem conhecida na utilização da ciência de dados é com **Serviços financeiros**:
+
+> nesta área as empresas procuram **identificar padrões e informações que favoreçam a negociação**, também para facilitar a rotina das transações e **combater fraudes**, seja analisando **perfis de risco**, ou com tecnologias mais atuais como cibersegurança.
+
+
+------------------------------------------------------------------------
+
+### Áreas que podem se beneficiar
+
+<hr/>
+
+
+
+<br/>
+
+*  A área da **Relacionamento com consumidor**:
+
+>  responder e oferecer serviços a potenciais clientes era **100% humano**,
+hoje existem **os chatbots** que com
+determinados algoritmos, aprendem a cada conversa, e se tornam cada vez melhores
+em se relacionar com os clientes, dessa forma, empresas que oferecem serviços de
+integração dos chatbots com redes sociais e com sistemas de pagamento já deslumbram
+um cenário otimista.
+
+
+------------------------------------------------------------------------
+
+### Áreas que podem se beneficiar
+
+<hr/>
+
+
+
+<br/>
+
+*  A área da **Moda**
+
+> prever tendências de compra, personalizar experiências e
+o **relacionamento com chatbots**, são benefícios
+da **ciência de dados com Inteligência Artificial** e amplamente aplicados na moda.
+Além do e-commerce, a analise dados é uma importante aliada no desenvolvimento de
+novos tecidos, através de simulações e inteligência, as reações humanas são imitadas,
+com controles sobre a transpiração.
+
+
+
+------------------------------------------------------------------------
+
+### Áreas que podem se beneficiar
+
+<hr/>
+
+<br/>
+
+
+*  Na área da **Educação**:
+
+>  a tecnologia junto com as análises já alterou a forma como
+os professores ministram as aulas, em alguns locais complementando a utilização de
+livros por imersões no tema estudado
+com recursos de realidade virtual por exemplo. 
+
+<!-- > Também, podemos exemplificar que através de um **sistema on-line, o aluno completando
+atividades, é possível criar um algoritmo que identifica o quanto ele aprendeu**, e vai
+traçando um plano de estudo de acordo com sua evolução. -->
+
+
+
+------------------------------------------------------------------------
+
+### Áreas que podem se beneficiar
+<hr/>
+
+<br/>
+
+<div style="text-align: center;">
+{{< video images/videos/WhatsApp1.mp4 width="1000" height="490">}}
+</div>
+
+
+
+------------------------------------------------------------------------
+
+### Áreas que podem se beneficiar
+<hr/>
+
+<br/>
+
+<div style="text-align: center;">
+{{< video images/videos/WhatsApp2.mp4 width="1000" height="490">}}
+</div>
+
+
+
+
+
+------------------------------------------------------------------------
+
+
+## Mercado de trabalho
+
+<hr/>
+
+![](images/state of data/capa.jpg){fig-align="center" width="400"}
+
+*  Realizado **14 de outubro de 2024 e 18 de dezembro de 2024** e contou com **5.217**
+respondentes em todo o Brasil
+
+Link para Estudo:
+
+- [State of Data 2024 - 2025 - Um raio-x dos profissionais de dados do Brasil](https://beehiiv-publication-files.s3.amazonaws.com/uploads/downloadables/0f0bfe98-8943-4bc1-b95d-7c9ecfd3e402/2780448f-a233-42de-af8c-96677782d8c8/Bain%20%26%20Company%20e%20Data%20Hackers%20-%20State%20of%20Data%202024.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAQCMHTQSERNC675WH%2F20250916%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20250916T035221Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=3747a3f64289aedaa640a2b3b94043eea8a28844dc48bf0b4ed0edbd5e4d49c7)
+
+<!-- 
+------------------------------------------------------------------------
+
+## Mercado de trabalho
+
+<hr/>
+
+#### Principais resultados
+
+
+*  A remuneração dos profissionais de dados aumentou em média cerca de 11,8% entre 2023 e 2024, acima
+da inflação oficial no período (4,83%).
+
+<br/>
+
+* O modelo preferido de trabalho dos profissionais de dados se divide entre o 100% remoto, com 46,0% de
+preferência, e o modelo híbrido com dias flexíveis (43,3%).
+
+
+<br/>
+
+*  O tema IA generativa se tornou ainda mais presente em 2024, com 85,5% dos respondentes da pesquisa
+mencionando que em suas empresas esta é uma tecnologia que está sendo trabalhada.
+
+
+
+------------------------------------------------------------------------
+
+ -->
+
+## Mercado de trabalho
+
+<hr/>
+
+![](images/state of data/2_cargo_sexo.jpg){fig-align="center" width="400"}
+
+
+------------------------------------------------------------------------
+
+## Mercado de trabalho
+
+<hr/>
+
+![](images/state of data/3_nivel_instrucao_cargo.jpg){fig-align="center" width="400"}
+
+------------------------------------------------------------------------
+
+## Mercado de trabalho
+
+<hr/>
+
+![](images/state of data/4_empresas_admiradas_na_area_de_dados.jpg){fig-align="center" width="400"}
+
+
+------------------------------------------------------------------------
+
+## Mercado de trabalho
+
+<hr/>
+
+![](images/state of data/5_remuneracao_por_cargo.jpg){fig-align="center" width="400"}
+
+
+------------------------------------------------------------------------
+
+## Mercado de trabalho
+
+<hr/>
+
+![](images/state of data/6_comparacao_remuneracao_por_funcao.jpg){fig-align="center" width="400"}
+
+
+------------------------------------------------------------------------
+
+## Na Universidade
+
+<hr/>
+
+
+<div style="text-align: center;">
+![](images/Tabela-Remuneracao-2025-DEh-scaled.jpg){ width="800"}
+</div>
+
+------------------------------------------------------------------------
+
+
+<br/> <br/> <br/>
+
+<hr/>
+<div style="text-align: center;">
+![](images/logo.png){fig-align="center" width="100"}
+</div>
+
+<h3 style="text-align: center;">
+Curso de Graduação em Estatística - DE/UFPE^[Estamos em processo de atualização do nome para *Graduação em Estatística e Ciência de Dados*.]
+</h3>
+
+<hr/>
+
+
+
+------------------------------------------------------------------------
+
+## Graduação em Estatística - DE/UFPE
+
+<hr/>
+<br/>
+<br/>
+
+
+
+- São 30 vagas no SISU com entrada no primeiro semestre Letivo;
+
+<br/>
+
+
+- Duração de 4 anos e funciona no período DIURNO;
+
+<br/>
+
+
+- O QUE OS ALUNOS ESTUDAM? ...
+    - é possível destacar ***alguns pilares fundamentais*** 
+
+<!-- MATEMÁTICA, PROBABILIDADE, ESTATÍSTICA, COMPUTAÇÃO -->
+
+
+
+------------------------------------------------------------------------
+
+### Pilares para Estatísticos e Cientista de dados
+
+<hr/>
+
+<br/>
+<br/>
+
+* **Primeiro pilar**:
+
+<br/>
+
+> Possuir **"Pensamento e raciocínio lógico matemático"**, é extremamente necessário ter a
+capacidade de realizar operações lógicas, ou seja, a capacidade de organizar dados ou
+informações para se obter um contexto, um significado e um resultado ou consequência
+
+<br/>
+
+
+------------------------------------------------------------------------
+
+### Pilares para Estatísticos e Cientista de dados
+
+<hr/>
+
+<br/>
+<br/>
+
+* **Segundo pilar**:
+
+<br/>
+
+> Em seguida, a **"Matemática e Estatística"** é a base da probabilidade, e dos métodos estatísticos,
+como também os algoritmos de aprendizado de máquina (machine learning) e inteligência artificial.
+Os conceitos matemáticos e a estatística é característica intrínseca da ciência de dados.
+
+
+<br/>
+
+
+------------------------------------------------------------------------
+
+### Pilares para Estatísticos e Cientista de dados
+
+<hr/>
+
+<br/>
+<br/>
+
+* **Terceiro pilar**:
+
+<br/>
+
+>  Outro ponto importante é o **"Conhecimento em Programação"**, a extração de dados
+exige criatividade devido ao emaranhado de dados possíveis para um determinado fim e
+exige também formas viáveis para extração. Tanto a criatividade quanto a viabilidade
+são postas em prática a partir de programas oriundos do conhecimento de linguagens
+de programação.
+
+
+
+<br/>
+
+<!-- 
+
+------------------------------------------------------------------------
+
+
+
+
+
+## Para concluir
+
+<hr/>
+> Os cientistas de dados combinam **empreendedorismo com paciência**, vontade de construir produtos de
+dados de forma incremental, **capacidade de explorar e capacidade de iterar sobre
+uma solução**. São inerentemente interdisciplinares. Eles podem lidar com todos
+os aspectos de um problema, desde a **coleta inicial de dados e condicionamento
+de dados até a obtenção de conclusões**. Eles podem pensar fora da caixa para
+encontrar novas maneiras de ver o problema ou trabalhar com problemas definidos
+de maneira muito ampla, eles devem estar prontos para o seguinte questionamento:
+
+
+> ***'Aqui estão os dados, o que você pode fazer com eles?'***
+
+<hr/>
+
+**Mike Loukides**
+
+vice-presidente de estratégia de conteúdo da O’Reilly Media
+
+
+
+------------------------------------------------------------------------
+
+
+
+## Referências
+
+<hr/>
+
+Link para Texto sobre Privacidade e Proteção de dados:
+
+- https://contatostepps.medium.com/privacidade-e-prote%C3%A7%C3%A3o-de-dados-entenda-a-import%C3%A2ncia-desses-conceitos-na-ind%C3%BAstria-4-0-aa27d5c1f872
+
+Livros:
+
+-   R para Data Science
+-   Data Science do zero
+-   Estatística e Ciêcia de Dados -->
+
+
+------------------------------------------------------------------------
+
+<div style="text-align: left; width: 50%;">
+![](images/grafico_skillsgap.width-1000.format-webp.webp)
+</div>
+
+![](images/f1.png){fig-align="right" width="700"}
+
+<div style="font-size:12pt">
+Link: <https://blog.google/intl/pt-br/produtos/a-escassez-dos-profissionais-de-tecnologia-no-brasil-e-seu-consequente-impacto-no-ecossistema-de-startups/>
+</div>
+
+------------------------------------------------------------------------
+
+<br/>
+
+
+<h2 style="text-align:center;font-size:100pt;margin-left:-100px;">Dúvidas?</h2>
+
+<div style="margin-top:-250px; text-align: right;">
+<img src="images/imgbin_0ad397d659014deb3dc65832625c56c8.png" width="20%"/>
+</div>
+
+
+
+<hr/>
+
+<h1 style="text-align: center;">
+
+OBRIGADO!
+
+</h1>
+
+<hr/>
+
+::: {style="text-align: center"}
+Slide produzido com [Linguagem de Programação R](https://www.r-project.org/) e [Quarto](https://quarto.org/).
+:::
+
+<br/> <br/> 
+**Site do Departamento de Estatística**: <https://www.ufpe.br/dep-estatistica>
